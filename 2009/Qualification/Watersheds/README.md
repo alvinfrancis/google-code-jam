@@ -60,26 +60,26 @@ There will be at most 26 basins.
 
 # Sample
 
->    ## Input                   ## Output
->    5                          Case #1:
->    3 3                        a b b
->    9 6 3                      a a b
->    5 9 6                      a a a
->    3 5 9                      Case #2:
->    1 10                       a a a a a a a a a b
->    0 1 2 3 4 5 6 7 8 7        Case #3:
->    2 3                        a a a
->    7 6 7                      b b b
->    7 6 7                      Case #4:
->    5 5                        a a a a a
->    1 2 3 4 5                  a a b b a
->    2 9 3 9 6                  a b b b a
->    3 3 0 8 7                  a b b b a
->    4 9 8 9 8                  a a a a a
->    5 6 7 8 9                  Case #5:
->    2 13                       a b c d e f g h i j k l m
->    8 8 8 8 8 8 8 8 8 8 8 8 8  n o p q r s t u v w x y z
->    8 8 8 8 8 8 8 8 8 8 8 8 8
+    ## Input                      ## Output
+    5                             Case #1:
+    3 3                           a b b
+    9 6 3                         a a b
+    5 9 6                         a a a
+    3 5 9                         Case #2:
+    1 10                          a a a a a a a a a b
+    0 1 2 3 4 5 6 7 8 7           Case #3:
+    2 3                           a a a
+    7 6 7                         b b b
+    7 6 7                         Case #4:
+    5 5                           a a a a a
+    1 2 3 4 5                     a a b b a
+    2 9 3 9 6                     a b b b a
+    3 3 0 8 7                     a b b b a
+    4 9 8 9 8                     a a a a a
+    5 6 7 8 9                     Case #5:
+    2 13                          a b c d e f g h i j k l m
+    8 8 8 8 8 8 8 8 8 8 8 8 8     n o p q r s t u v w x y z
+    8 8 8 8 8 8 8 8 8 8 8 8 8
 
 # Notes
 

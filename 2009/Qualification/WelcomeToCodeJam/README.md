@@ -50,8 +50,8 @@ Each line will be no longer than 500 characters.
 
 # Sample
 
->    ## Input                       ## Output     
->    3                              Case #1: 0001 
->    elcomew elcome to code jam     Case #2: 0256 
->    wweellccoommee to code qps jam Case #3: 0000 
->    welcome to codejam                           
+    ## Input                          ## Output     
+    3                                 Case #1: 0001 
+    elcomew elcome to code jam        Case #2: 0256 
+    wweellccoommee to code qps jam    Case #3: 0000 
+    welcome to codejam                           

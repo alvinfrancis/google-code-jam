@@ -58,14 +58,14 @@ words in the alien language match the pattern.
 
 # Sample
 
->    ## Input        ## Output
->    3 5 4           Case #1: 2
->    abc             Case #2: 1
->    bca             Case #3: 3
->    dac             Case #4: 0
->    dbc
->    cba
->    (ab)(bc)(ca)
->    abc
->    (abc)(abc)(abc)
->    (zyx)bc
+    ## Input          ## Output
+    3 5 4             Case #1: 2
+    abc               Case #2: 1
+    bca               Case #3: 3
+    dac               Case #4: 0
+    dbc
+    cba
+    (ab)(bc)(ca)
+    abc
+    (abc)(abc)(abc)
+    (zyx)bc
